@@ -17,15 +17,15 @@ async def start(bot: Client, msg: Message):
 Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id={OWNER_ID}) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ 🦋 ʙʏ : [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭⁪⁬⁮](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
+                    InlineKeyboardButton(text="🍇 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🍇", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://github.com/Rich109bd/StringGenBot"),
-                    InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
+                    InlineKeyboardButton("🍎 WD Zone 🍎", url="https://t.me/Opleech"),
+                    InlineKeyboardButton("⚽️ ᴅᴇᴠᴇʟᴏᴩᴇʀ ⚽️", user_id=OWNER_ID)
                 ]
             ]
         ),
